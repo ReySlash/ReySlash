@@ -62,13 +62,13 @@ A full-stack application for organizing job applications and tracking their prog
 
 **[Explore repository →](https://github.com/ReySlash/job-application-tracker)**
 
-#### 🎵 Beatz Audio — Client Website
+#### 🎬 Digital Clip Agency — Full-Stack Agency Portfolio & CMS
 
-A website project for a live entertainment and events business, focused on presenting services, showcasing media, and supporting customer inquiries. Work includes a content-management and administration experience.
+A bilingual (ES/EN) portfolio platform for a video editing agency, featuring a responsive landing page and a database-driven content management system. Includes a protected admin dashboard for managing portfolio content, authentication, server-side caching, and automated tests.
 
-`Web development` · `CMS` · `Responsive design` · `Client collaboration`
+`Next.js 16` · `React 19` · `TypeScript` · `Prisma` · `PostgreSQL` · `Auth.js` · `Tailwind CSS` · `Vitest`
 
-**[Explore repository →](https://github.com/ReySlash/BeatzAudio-Website)**
+**[Explore repository →](https://github.com/ReySlash/Digital_Clip_Agency_landing)**
 
 ### `~/currently-exploring`
 
