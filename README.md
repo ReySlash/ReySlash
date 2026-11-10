@@ -8,7 +8,6 @@
 
 *Building practical applications, and turning ideas into working software.*
 
-[![GitHub](https://img.shields.io/badge/GitHub-ReySlash-181717?style=flat-square&logo=github)](https://github.com/ReySlash)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reynaldo-carmenate-arias-03b5102b5)
 [![Website](https://img.shields.io/badge/Website-reyslash.com-238636?style=flat-square&logo=googlechrome&logoColor=white)](https://reyslash.com)
 
@@ -78,23 +77,13 @@ A bilingual (ES/EN) portfolio platform for a video editing agency, featuring a r
 [+] Building and deploying maintainable end-to-end applications
 ```
 
-### `~/github-activity`
-
-<div align="center">
-
-**[📈 View my GitHub contribution activity](https://github.com/ReySlash?tab=overview&from=2026-11-01&to=2026-11-30)**
-
-<sub>Live contribution calendar and activity history on GitHub.</sub>
-
-</div>
-
 ---
 
 <div align="center">
 
 **Open to software development opportunities and interesting collaborations.**
 
-[LinkedIn](https://www.linkedin.com/in/reynaldo-carmenate-arias-03b5102b5) · [GitHub](https://github.com/ReySlash)
+[LinkedIn](https://www.linkedin.com/in/reynaldo-carmenate-arias-03b5102b5) · [Portfolio](https://reyslash.com)
 
 <sub>Thanks for stopping by.</sub>
 
