@@ -82,7 +82,9 @@ A bilingual (ES/EN) portfolio platform for a video editing agency, featuring a r
 
 <div align="center">
 
-![GitHub contribution activity](https://github-readme-activity-graph.vercel.app/graph?username=ReySlash&theme=github-compact&hide_border=true)
+**[📈 View my GitHub contribution activity](https://github.com/ReySlash?tab=overview&from=2026-11-01&to=2026-11-30)**
+
+<sub>Live contribution calendar and activity history on GitHub.</sub>
 
 </div>
 
