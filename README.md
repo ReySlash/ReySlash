@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# Hey, I'm Reynaldo 👋
+# Hey, I'm Rey 👋
 
 **Full-Stack Developer · Backend & Software Architecture Enthusiast**
 
